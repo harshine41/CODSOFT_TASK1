@@ -1,0 +1,27 @@
+Customer_ID,Name,Age,Gender,City,Purchase_Amount,Purchase_Date,Payment_Method
+1001,Arun,22,Male,Chennai,1250.5,01-06-2026,UPI
+1002,Priya,25,Female,Coimbatore,890,03-06-2026,Credit Card
+1003,Rahul,,male,chennai,,05-06-2026,upi
+1004,Sneha,31,Female,Madurai,1450.75,07-06-2026,Cash
+1005,Karthik,28,MALE,Chennai ,2100,10-06-2026,Debit Card
+1006,Divya,24,female,coimbatore,750.5,12-06-2026,UPI
+1007,Vijay,35,Male,Salem,1800,15-06-2026,credit card
+1008,Anitha,27,FEMALE,Madurai,950.25,18-06-2026,Cash
+1009,Suresh,29,Male,CHENNAI,1200,20-06-2026,UPI
+1010,Meena,23,female,Chennai,650,22-06-2026,Debit Card
+1011,Gokul,26,Male,Salem,,25-06-2026,UPI
+1012,Harini,,Female,Coimbatore,2300.5,28-06-2026,Credit Card
+1013,Ajay,32,male,madurai,1100,30-06-2026,cash
+1014,Keerthi,21,Female,Chennai,500,02-07-2026,UPI
+1015,Manoj,30,Male,Salem,1750.75,05-07-2026,Debit Card
+1016,Nandhini,34,female,Coimbatore,980,08-07-2026,credit card
+1017,Surya,28,Male,Chennai,1350,10-07-2026,UPI
+1018,Pooja,25,Female,Madurai,,12-07-2026,Cash
+1019,Ravi,27,male,salem,2200,15-07-2026,upi
+1020,Swetha,24,Female,Coimbatore,840.5,18-07-2026,Debit Card
+1003,Rahul,,male,chennai,,05-06-2026,upi
+1022,Dinesh,33,Male,Chennai,1550,20-07-2026,UPI
+1023,Lakshmi,26,female,Coimbatore,920,22-07-2026,Credit Card
+1024,Bala,29,Male,Madurai,1875.5,25-07-2026,Cash
+1025,Kaviya,22,Female,Chennai,720,28-07-2026,UPI
+1004,Sneha,31,Female,Madurai,1450.75,07-06-2026,Cash
